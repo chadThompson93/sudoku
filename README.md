@@ -1,4 +1,4 @@
-###Pygame sudoku game
+##Pygame sudoku game
 Simple sudoku game
 To run python gui.py
 
