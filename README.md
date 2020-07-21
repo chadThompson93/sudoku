@@ -1,5 +1,6 @@
 ## Pygame sudoku game
 Simple sudoku game
+
 To run python gui.py
 
 Hit spacebar on game board without user input for it to solve itself
